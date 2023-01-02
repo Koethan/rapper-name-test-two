@@ -1,5 +1,5 @@
-const express = require('express')
-const app = express()
+const express = require('express') //getting express so we can use it 
+const app = express() // common way to get a variable to use the methods from express usually called app
 const cors = require('cors')
 const PORT = 8000
 
